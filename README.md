@@ -1,1 +1,1 @@
-# IVC_MOTIF_DETECTION
+This AI project aims to classify motifs based on the presence of a unicorn seal. By collecting and labeling a diverse set of motif images, the project will train a machine learning model, likely using convolutional neural networks (CNNs), to detect whether a motif includes the unicorn seal. The goal is to develop a reliable tool for automated identification in various applications.
